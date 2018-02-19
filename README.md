@@ -14,3 +14,7 @@
 # Fluentd Log Collection & Transport (via DaemonSet)
 
 > k8 by example -- straight to the point, simple execution.
+
+## See also
+
+* https://github.com/kubernetes/dashboard/wiki/Access-control
