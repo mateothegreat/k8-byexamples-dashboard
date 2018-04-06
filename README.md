@@ -15,6 +15,23 @@
 
 > k8 by example -- straight to the point, simple execution.
 
+# Getting started
+
+Clone this repo and initialize submodules:
+
+```bash
+git clone https://github.com/mateothegreat/ansible-google-cloud && cd $_
+git submodule update --init
+```
+
+# Install
+
+```bash
+make install
+```
+
+That's literally it!
+
 ## See also
 
 * https://github.com/kubernetes/dashboard/wiki/Access-control
